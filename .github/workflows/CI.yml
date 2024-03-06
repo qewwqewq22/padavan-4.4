@@ -22,7 +22,7 @@ jobs:
       matrix:
         include:
           - build_variant: "mt7621"
-            targets: "JCG-Q11Pro JCG-Q20"
+            targets: "JCG-Q11Pro"
           - build_variant: "mt7621-usb-1"
             targets: "JCG-836PRO"
           - build_variant: "mt7621-usb-2"
